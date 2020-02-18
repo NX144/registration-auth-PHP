@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="first_auth@localhost" uuid="5c62f863-08f4-44d4-b9a2-2bf9acf4f614">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/first_auth</jdbc-url>
+      <driver-properties>
+        <property name="serverTimezone" value="Asia/Yekaterinburg" />
+      </driver-properties>
+    </data-source>
+  </component>
+</project>
